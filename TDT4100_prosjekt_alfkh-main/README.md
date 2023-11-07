@@ -1,3 +1,8 @@
+# How to run the project:
+src -> main -> java -> chess -> ChessApp.java
+
+
+
 # Skjelettprosjekt for TDT4100 prosjekt V2022
 
 Dette repoet er et skjelettprosjekt for TDT4100 prosjektet våren 2022.
