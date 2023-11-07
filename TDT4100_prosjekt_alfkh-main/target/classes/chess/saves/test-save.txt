@@ -1,0 +1,7 @@
+Alf
+W
+true
+Kristian
+B
+false
+[♟Ba7false],[♟Bb7false],[♟Bc6true],[♟Bd6true],[♟Be5true],[♟Bf7false],[♟Bg7false],[♟Bh7false],[♙Wa2false],[♙Wb2false],[♙Wc2false],[♙Wd2false],[♙We4true],[♙Wf2false],[♙Wg2false],[♙Wh2false],[♜Ba8false],[♜Bh8false],[♖Wa1false],[♖Wh1false],[♞Bb8],[♞Bg8],[♘Wb1],[♘Wg1],[♝Bc8],[♝Bf8],[♗Wc1],[♗Wc4],[♛Bd8],[♕Wf3],[♚Be8false],[♔We1false],

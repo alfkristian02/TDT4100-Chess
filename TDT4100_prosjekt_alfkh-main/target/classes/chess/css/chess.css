@@ -1,0 +1,23 @@
+
+.button{
+    -fx-background-color: transparent;
+    -fx-font-size: 30px;
+    -fx-focus-color: transparent;
+}
+
+.button:disabled, .button:disabled > * {
+    -fx-opacity: 1.0 ;
+  }
+
+#save, #back{
+    -fx-font-size: 20px;
+    -fx-background-color: #769656;
+}
+
+#save:hover{
+    -fx-background-color: #86A666;
+}
+
+#back:hover{
+    -fx-background-color: #86A666;
+}

@@ -1,0 +1,14 @@
+.dialog-pane {
+    -fx-background-color: #eeeed2;
+}
+
+.button{
+    -fx-background-color: #769656;
+    -fx-pref-width: 75px;
+    -fx-pref-height: 75px;
+    -fx-font-size: 30;
+}
+
+.button:hover{
+    -fx-background-color: #668646;
+}
