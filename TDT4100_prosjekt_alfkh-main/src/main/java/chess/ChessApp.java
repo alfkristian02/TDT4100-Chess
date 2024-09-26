@@ -1,14 +1,3 @@
-//HUSKELISTE
-
-// - Dokumentasjonskriving
-    // - Forklare hvorfor ikke castle er testet isolert
-
-    // - Huske å oppdatere klassediagram
-// - Fikse noe feilsjekk på konstrøktør i abstractPiece kanskje?
-
-
-
-
 package chess;
 
 import javafx.application.Application;
